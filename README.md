@@ -13,4 +13,4 @@ The code is built with frontend on node.js and backend on the springboot and is 
 <h2> backend-springboot </h2>
   <li> Code for connecting to etherium blockchain</li>
   <li> Host contract on the blockchain</li>
-  <li> Convert QR-code to hash code</li>  
+  <li> Convert QR-code to hash codes</li>  
